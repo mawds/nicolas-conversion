@@ -6,4 +6,5 @@ Conversion functions needed:
 - Feet to inches
 - Degrees to Radians
 - Celsius to Farenheit
+- Kelvin to Celsius
 
